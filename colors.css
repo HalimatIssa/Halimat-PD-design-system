@@ -1,0 +1,17 @@
+
+:root {
+    /* Use for main CTA buttons */
+    --colorPrimaryColor: #126dd8;    
+    /* Use for texts on main CTA buttons */
+    --colorOnPrimaryColor: #acccf1;    
+    /* Use for cards */
+    --colorSecondaryColor: #600f86;    
+    /* Use for text on cards */
+    --colorOnSecondaryColor: #e3f3f4;    
+    /* Use sparingly */
+    --colorTertiaryColor: #09470f;    
+    /* Also use sparingly */
+    --colorNeutralColor: #3d3434;    
+    /* This color should be used for error messages */
+    --colorWarningColor: #f01616;    
+}
